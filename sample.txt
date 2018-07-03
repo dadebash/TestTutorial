@@ -1,0 +1,2 @@
+This is the sample text file created in linux terminal.
+By dadebash

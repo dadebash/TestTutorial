@@ -1,0 +1,9 @@
+ This is the testing for 
+how to create file
+which command is used to create file in Linux
+how do you create a new file
+how do i create folder in different os:
+:w
+:q
+:wq
+
